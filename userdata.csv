@@ -1,0 +1,6 @@
+id,username,email,password,hashedpassword
+1,Ericsson,cericsson1@vinaora.com,abc123,sha256$dVGrf2jxFEUYGBkV$1d38b13c6f16dbfe4604a0a2479ae975f6893d1adba1fadea49c70669ed597a4
+2,Lockton,glockton2@rediff.com,erf456,sha256$i59a5iDSwkKb78gj$e8b4994293b907a08a33b314e906a6bf7556429bc2d85bf6d07fad832a8334a6
+3,Avey,tavey3@linkedin.com,xyz345,
+4,Gandy,mgandy4@businessinsider.com,url895,
+5,Saunt,msaunt5@ted.com,ppf890,
